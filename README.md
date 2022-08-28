@@ -1,4 +1,4 @@
 # fcc-exercise-tracker-mb
 
 
-check hre - https://fcc-exercise-tracker-mb.herokuapp.com/
+check here - https://fcc-exercise-tracker-mb.herokuapp.com/
